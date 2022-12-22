@@ -1,0 +1,13 @@
+.glass-background-esta-clickeado {
+    background: radial-gradient(115.91% 872.93% at 0% 0%, rgba(12, 111, 246, 0.7) 0%, rgba(12, 111, 246, 0.105) 100%);
+    border: 1px solid rgba(12, 111, 246, 0.3);
+    border-radius: 45px;
+    font-weight: 700;
+}
+
+.glass-background {
+    background: radial-gradient(100% 872.93% at 0% 0%, #00AEB8 0%, rgba(0, 174, 184, 0.15) 100%);
+    border: 1px solid rgba(12, 111, 246, 0.3);
+    border-radius: 45px;
+    font-weight: 700;
+}
